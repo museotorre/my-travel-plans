@@ -1,3 +1,9 @@
-# Travel Destinations
+# Travel Plan Maker
 
-A simple app to keep track of destinations I'd like to visit.
+Search local initeraries with google map
+
+Markdown destinations
+
+management of reservations (notes and hints)
+
+Keep track of my pace
